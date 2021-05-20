@@ -1,9 +1,3 @@
-//Grupo 6
-//Ivson Soares Ferreira Junior
-//Lucas Philippe Nunes de Lima
-//Rafael Moura Machado
-//Kael Scott Novacovski
-
 // video
 var canvas;
 let cor = 255;
