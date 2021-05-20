@@ -1,0 +1,16 @@
+Grupo 6
+Ivson Soares Ferreira Junior
+Lucas Philippe Nunes de Lima
+Rafael Moura Machado
+Kael Scott Novacovski
+
+
+O canvas fica posicionado ao lado direito da tela
+Voce pode encontrar o projeto online no link:
+------------------------------------------
+https://caslus.github.io/projeto2_expcri/
+------------------------------------------
+O design do projeto foi desenhado no padrao do navegador 
+Microsoft Edge e em uma tela 100%, outros navegadores ou tamanhos
+podem incorrer em uma pagina assimetrica.
+
