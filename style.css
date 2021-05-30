@@ -1,5 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif; 
+    z-index: -1;
 }
 
 /* Style the header(What Is It?) */
@@ -8,6 +9,7 @@ header {
   text-align: left;
   font-size: 400%;
   color: white;
+  z-index: -1;
 }
 
 /* Style the list inside the menu */
@@ -17,6 +19,7 @@ nav ul {
   left: 3%;
   list-style-type: none;
   color: white;
+  z-index: -1;
 }
 
 /* Audio */
@@ -29,16 +32,6 @@ nav ul {
   height: 3.3%;
 }
 
-/* Moldura */
-#moldura {
-  z-index: -10;
-  position: absolute;
-  right: 0%;
-  top: 0.1%;
-  width: 50.5%;
-  max-height: 99.8%;
-  height: auto;
-}
 
 /* Style the video */
 #myVideo {
@@ -46,6 +39,15 @@ nav ul {
   position: fixed;
   left: 0;
   top: 0;
-  width: 50%;
+  width: 51%;
   height: auto;
+}
+
+#title {
+ z-index: -1;
+}
+
+
+#list {
+ z-index: -1;
 }

@@ -38,7 +38,7 @@ function setup() {
   bAndwButton.position(windowWidth/8.5, windowHeight/1.04);
   
 //sliders
-  sliderSize = createSlider(0.01, 1, 0.4, 0.01);
+  sliderSize = createSlider(0.01, 0.2, 0.04, 0.01);
   sliderSize.position(windowWidth/8, windowHeight/2.25);
   
   sliderSym = createSlider(1, 10, 3, 1);
